@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 
   cout<<'Print';
-  fjdn
+  fj
   return 0;
 }
 
