@@ -1,5 +1,2 @@
 #include <bits/stdc++.h>
-using namespace std;
-vdv
-vvvv
-vvv
+using namespace std;\
