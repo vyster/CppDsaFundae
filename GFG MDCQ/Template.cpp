@@ -13,7 +13,6 @@ int main() {
 		    if(a[i]==a[j]){
 			    
 		    }
-	    }
             
         for(int i=0; i<
         for(int i=0; i<n; i++)cout<<a[i]<<endl;
