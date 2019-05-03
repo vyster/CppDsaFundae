@@ -14,7 +14,6 @@ int main() {
 			    
 		    }
             
-  i++)cout<<a[i]<<endl;
         }
 	
 	return 0;
