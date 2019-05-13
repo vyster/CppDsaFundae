@@ -1,2 +1,3 @@
 #include <bits/stdc++.h>
-using namespa
+using namesp
+
