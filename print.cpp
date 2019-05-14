@@ -1,3 +1,3 @@
 #include <bits/stdc++.h>
-using namesp
+using names
 
