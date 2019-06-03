@@ -1,7 +1,7 @@
 int Solution::numRange(vector<int> &A, int B, int C) {
     // Do not write main() function.
     // Do not read input, instead use the argument
-    // Still have a doubt. Checkout www.interviewbit.com/pages/sample_codes/ for more de
+    // Still have a doubt. Checkout www.interviewbit.com/pages/sample_codes/ fo
     
     int i = 0;
     int j = 0;
