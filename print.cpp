@@ -1,6 +1,6 @@
 int Solution::numRange(vector<int> &A, int B, int C) {
     // Do not write main() function.
-    // Do not read input, instead use the argument
+    // Do not read input, instead use the argu
     
     int i = 0;
     int j = 0;
