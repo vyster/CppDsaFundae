@@ -7,10 +7,6 @@
     while(i < A.size()){
         sum = sum + A[j];
         if((sum >= B) && (sum <= C)){
-            count++;
-            j++;
-        }
-        else if(sum < B){
             j++;
         }
         else if(sum > C){
