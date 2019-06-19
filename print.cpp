@@ -1,5 +1,4 @@
-
-    int i = 0;
+ int i = 0;
     int j = 0;
     int sum = 0;
     int count = 0;
