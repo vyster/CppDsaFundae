@@ -20,8 +20,7 @@
         }
     }
     
-    return count;
-
+    return c;
     int i = 0;
     int j = 0;
     int sum = 0;
